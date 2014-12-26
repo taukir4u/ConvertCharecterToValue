@@ -1,0 +1,5 @@
+C:\Users\PC21\Desktop\ConvertCharecterToValue\ConvertCharecterToValue\bin\Debug\ConvertCharecterToValue.exe.config
+C:\Users\PC21\Desktop\ConvertCharecterToValue\ConvertCharecterToValue\bin\Debug\ConvertCharecterToValue.exe
+C:\Users\PC21\Desktop\ConvertCharecterToValue\ConvertCharecterToValue\bin\Debug\ConvertCharecterToValue.pdb
+C:\Users\PC21\Desktop\ConvertCharecterToValue\ConvertCharecterToValue\obj\Debug\ConvertCharecterToValue.exe
+C:\Users\PC21\Desktop\ConvertCharecterToValue\ConvertCharecterToValue\obj\Debug\ConvertCharecterToValue.pdb
